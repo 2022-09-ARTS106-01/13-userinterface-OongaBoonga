@@ -16,5 +16,4 @@ public class InventoryItemButton : MonoBehaviour
         buttonText = GetComponentInChildren<Text>();
         buttonText.text = itemTypes[typeIndex];
     }
-
 }
